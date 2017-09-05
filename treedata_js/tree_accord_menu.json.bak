@@ -1,0 +1,50 @@
+{"basic":
+[
+{"id":"1",
+"parentid":"-1",
+"text":"天气展示",
+"state":"closed",
+"iconCls":"",
+"attributes":{"url":""},
+"checked":"",
+"isFolder":"",
+"isLeaf":"",
+"orderNum":"",
+"children":[
+         {"id":"10","parentid":"1","text":"温湿度","state":"closed","iconCls":"",
+	 "attributes":{"url":"more_draw_day.php?act=11"},"checked":"","isFolder":"","isLeaf":"",
+	 "orderNum":""},
+	{"id":"11","parentid":"1","text":"降水量","state":"closed","iconCls":"",
+	"attributes":{"url":"more_draw_day.php?act=12"},"checked":"","isFolder":"","isLeaf":"",
+	"orderNum":""},
+	{"id":"12","parentid":"1","text":"风力、风向","state":"closed","iconCls":"",
+	"attributes":{"url":"more_draw_day.php?act=13"},"checked":"","isFolder":"","isLeaf":"",
+	"orderNum":""},
+	{"id":"13","parentid":"1","text":"天气","state":"closed","iconCls":"",
+	"attributes":{"url":"more_draw_day.php?act=14"},"checked":"","isFolder":"","isLeaf":"",
+	"orderNum":""}
+	]
+},
+{"id":"2,
+"parentid":"-1",
+"text":"城市选择",
+"state":"closed",
+"iconCls":"",
+"attributes":{"url":""},
+"checked":"",
+"isFolder":"",
+"isLeaf":"",
+"orderNum":""
+},
+{"id":"3",
+"parentid":"-1",
+"text":"日历",
+"state":"closed",
+"iconCls":"",
+"attributes":{"url":""},
+"checked":"",
+"isFolder":"",
+"isLeaf":"",
+"orderNum":""}
+]
+}
